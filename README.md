@@ -24,7 +24,7 @@ conda activate retinal_seg
 
 After setting up the environment and installing the dependencies, simply open the notebook:
 ```bash
-UNet_segmentator.ipynb
+UNet_segmentator-GITHUB.ipynb
 ```
 and run all cells sequentially.
 
