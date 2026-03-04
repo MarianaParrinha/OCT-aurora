@@ -33,3 +33,35 @@ The trained model weights are already provided in the repository and will be aut
 model_augfin5.weights.h5
 ```
 No additional training is required to reproduce the segmentation results.
+
+## Affiliations
+
+This work was developed in the context of a Master's thesis conducted at:
+
+- **Institute for Systems and Robotics (ISR)**  
+  Instituto Superior Técnico (IST), Universidade de Lisboa - Lisbon, Portugal  
+
+under the supervision of:
+
+- **Prof. João Sanches** (Instituto Superior Técnico)  
+- **Eng. Diogo Vieira** (Instituto Superior Técnico)  
+- **Dr. Afonso Cabrita** (Hospital de Santa Maria)
+
+The project was coordinated by:
+
+- **Dr. Inês Leal**  
+- **Prof. Carlos Marques-Neves**
+
+### Clinical and Research Collaborators
+
+This work was supported by and/or involved collaboration with:
+
+- Serviço de Oftalmologia, Hospital de Santa Maria (Centro Hospitalar Universitário Lisboa Norte), Lisbon, Portugal  
+- Departamento de Bioengenharia, Instituto Superior Técnico, Universidade de Lisboa, Portugal  
+- Laboratorio de Enfermedades Autoinmunes Oculares y Sistémicas (LEAOS), Hospital Clínico Universidad de Chile, Santiago, Chile  
+- Serviço de Oftalmologia, Hospital de Coimbra (Centro Hospitalar Universitário de Coimbra), Portugal  
+- ULS Santo António, Porto, Portugal   
+
+### Funding
+
+This project was sponsored by the **Programa de Incentivo à Investigação Clínica da Sociedade Portuguesa de Oftalmologia**.
