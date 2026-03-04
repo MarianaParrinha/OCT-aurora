@@ -54,7 +54,7 @@ The project was coordinated by:
 
 ### Clinical and Research Collaborators
 
-This work was supported by and/or involved collaboration with:
+This work was conducted in collaboration with and supported by the following institutions:
 
 - Serviço de Oftalmologia, Hospital de Santa Maria (Centro Hospitalar Universitário Lisboa Norte), Lisbon, Portugal  
 - Departamento de Bioengenharia, Instituto Superior Técnico, Universidade de Lisboa, Portugal  
