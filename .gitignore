@@ -1,0 +1,92 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Pytest / coverage
+# =========================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# =========================
+# Type checker / linter caches
+# =========================
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.pytype/
+
+# =========================
+# OS / editor
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+.idea/
+
+# =========================
+# Build / packaging
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Local output folders
+# =========================
+results/
+outputs/
+tmp/
+temp/
+
+# =========================
+# Local data (optional)
+# keep this only if you do NOT want datasets in git
+# =========================
+data/train/
+data/test/
+data/raw/
+data/processed/
+
+# =========================
+# Model checkpoints
+# keep general checkpoints out, but allow your chosen weights
+# =========================
+checkpoints/
+*.ckpt
+*.pb
+*.onnx
+*.pt
+*.pth
+
+# keep h5 weights tracked
+!*.h5
+!*.weights.h5
